@@ -113,7 +113,7 @@ body{
     }
     .apresentacao{
         flex-direction: column-reverse;
-        padding: 5%;
+        padding: 10%;
     }
     .apresentacao__conteudo{
         width: auto;
